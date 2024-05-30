@@ -8,7 +8,7 @@
 
 ##
 
-___Update System Packages and Install SCRIPT___
+___Step one___
 
 ```
 
@@ -18,7 +18,24 @@ cd MAPTECH-TELEGRAM-BOT
 ```
 
 ## ㅤ
+___Step two___
 
+```
+
+chmod +x telegram_bot.sh
+
+```
+
+##
+___Step three___
+
+```
+
+./telegram_bot.sh
+
+```
+
+##
 ___Follow Us!___
 
  <p>    
